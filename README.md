@@ -1,8 +1,8 @@
-# Explore2 pêche aux outils RDG [<img src="https://github.com/louis-heraut/Explore2_toolbox/blob/c3b69377345919a2048826beac0841c37086db4e/resources/logo/LogoExplore2.png" align="right" width=160 alt=""/>](https://professionnels.ofb.fr/fr/node/1244)
+# Explore2 pêche aux outils RDG [<img src="https://github.com/lou-heraut/Explore2_toolbox/blob/c3b69377345919a2048826beac0841c37086db4e/resources/logo/LogoExplore2.png" align="right" width=160 alt=""/>](https://professionnels.ofb.fr/fr/node/1244)
 
 <!-- badges: start -->
 [![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-green)](https://lifecycle.r-lib.org/articles/stages.html)
-![](https://img.shields.io/github/last-commit/louis-heraut/Explore2_peche_aux_outils)
+![](https://img.shields.io/github/last-commit/lou-heraut/Explore2_peche_aux_outils)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md) 
 <!-- badges: end -->
 
@@ -16,9 +16,9 @@ Ce projet a été rendu possible dans le cadre d'un développement réalisé par
 ## Téléchargement du code
 Soit en clonant le répertoire git :
 ``` 
-git clone https://github.com/louis-heraut/Explore2_peche_aux_outils_RDG.git
+git clone https://github.com/lou-heraut/Explore2_peche_aux_outils_RDG.git
 ```
-Soit en téléchargeant l'[archive zip](https://github.com/louis-heraut/Explore2_peche_aux_outils_RDG/archive/refs/heads/main.zip) puis en la décompressant.
+Soit en téléchargeant l'[archive zip](https://github.com/lou-heraut/Explore2_peche_aux_outils_RDG/archive/refs/heads/main.zip) puis en la décompressant.
 
 
 ## ✨ Participation ✨
