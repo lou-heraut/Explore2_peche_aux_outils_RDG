@@ -158,7 +158,6 @@ if __name__ == "__main__":
                              gcm="CNRM",
                              bias="ADAMONT",
                              hm="EROS")
-    print(f"{len(selection)} fichiers sélectionnés")
     summary(selection)
 
     # Télécharger
