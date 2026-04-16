@@ -44,7 +44,7 @@ def get_files(dataset_doi):
     return [f for f in r.json().get("data", []) if f["dataFile"]["filename"].endswith(".nc")]
 
 
-def build_catalog(output_csv="explore2_files.csv"):
+def build_catalog(output_csv="explore2_catalog.csv"):
     """
     Construit le catalogue complet de tous les fichiers et le sauvegarde en CSV.
     Retourne la liste des entrées sous forme de dicts.
@@ -147,7 +147,7 @@ def summary(rows):
 # ── Exemple d'utilisation ─────────────────────────────────────────────────────
 if __name__ == "__main__":
     # Construire le catalogue
-    catalog = build_catalog("explore2_files.csv")
+    catalog = build_catalog("explore2_catalog.csv")
     
     # Explorer les options disponibles
     summary(catalog)
