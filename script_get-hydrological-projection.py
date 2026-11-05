@@ -157,7 +157,7 @@ if __name__ == "__main__":
                              scenario="rcp85",
                              gcm="CNRM",
                              bias="ADAMONT",
-                             hm="EROS")
+                             hm="J2000")
     summary(selection)
 
     # Télécharger
